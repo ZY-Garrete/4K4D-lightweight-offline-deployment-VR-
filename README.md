@@ -1,1 +1,2 @@
 # 4K4D-lightweight-offline-deployment-VR-
+This project aims to explore the lightweight optimization and offline deployment of the 4K4D real-time 4D view synthesis technology on standalone Virtual Reality (VR) devices. By addressing the challenges of high computational complexity and storage requirements, this research seeks to enable immersive, high-fidelity dynamic 3D scene rendering at 4K resolution on resource-constrained VR hardware.
