@@ -24,3 +24,5 @@
   +  
 + Ray Marching: How to integrate the color and transparency of light passing through the scene.
 + Network Evaluation:
+  + Radius MLP
+  + Density MLP
