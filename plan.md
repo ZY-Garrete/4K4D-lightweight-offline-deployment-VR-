@@ -26,3 +26,7 @@
 + Network Evaluation:
   + Radius MLP
   + Density MLP
+# Key Challenge:
+  + Insufficient GPU Memory
+  + Extended Training Time
+  + Excessive Storage Requirements
